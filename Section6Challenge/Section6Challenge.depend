@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1572088974 source:c:\workspace\datastructureandalgorithm\pogramming\section6challenge\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<cmath>
+
