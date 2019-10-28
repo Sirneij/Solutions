@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1572271015 source:c:\workspace\datastructureandalgorithm\solutions\section10challenge\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<cmath>
+	<iomanip>
+	<iterator>
+	<chrono>
+	<thread>
+
